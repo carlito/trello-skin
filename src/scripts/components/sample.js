@@ -20,7 +20,7 @@
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = '';
+    link.href = 'https://raw.githubusercontent.com/carlito/trello-skin/master/build/styles/main.min.css';
     link.media = 'all';
     head.appendChild(link);
   }
